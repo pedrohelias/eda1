@@ -2,9 +2,7 @@
 
 int main()
 {
-    int counter1, cycles = 0;
-    int calculo = 0;
-    int parada = 0;
+    int counter1, cycles, calculo, parada = 0;
 
     printf("Put a number that represents the amount of cycles\n");
     scanf("%d", &cycles);
